@@ -1,16 +1,16 @@
-### Hi there 👋
+### What's up;)
 
-<!--
-**professor-maker/professor-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm from Uzbekistan!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm 17 y.o. web-developer.
+
+### Languages:
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>    <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+
+### Frameworks:
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+
+### Future plans:
+To become IT businessman
+Move to USA
